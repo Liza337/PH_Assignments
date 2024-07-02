@@ -21,7 +21,7 @@
 - This assignment is based on basic javascript problem solving
 
 ## Assignment-05
-- Live site: wholesale-income.surge.sh
+- Live site: https://wholesale-income.surge.sh/
 - In this assignment, I practiced manipulating the DOM using JavaScript. I created dynamic content and handled user interactions
 
 ## Assignment-06
@@ -29,7 +29,7 @@
 - This assignment is based on ES6 and API integration into web application.I fetched data from APIs and displayed it on the web page
 
 ## Assignment-07
-- Live Site: dry-bucket.surge.sh
+- Live Site: https://dry-bucket.surge.sh/
 - This assignment is based on devtool and Debug application
 
 
