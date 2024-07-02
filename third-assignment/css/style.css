@@ -1,0 +1,12 @@
+.button-color{
+   background-color:#B68C5A ;
+   border-radius: 8px;
+   color: #FFFFFF;
+}
+.banner{
+   /* margin-top: 70px; */
+   /* background: url("../images/banner.png"); */
+   /* width: 1170px; */
+   /* height: 550px; */
+   background-image: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%),url("../images/banner.png");
+}

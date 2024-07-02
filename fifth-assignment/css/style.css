@@ -1,0 +1,21 @@
+.button-color{
+    background-color:#1090D8 ;
+    border-radius: 8px;
+    color: #FFFFFF;
+
+    
+
+ }
+ .bg-color{
+    background: rgba(16, 144, 216, 0.1);
+    border-radius: 8px;
+ }
+ .text-color{
+    color: rgba(17, 17, 17, 0.6);
+ }
+ .text-class{
+    text-align: left !important;
+    display: flex;
+    column-gap: 0.55px;
+    /* gap: 1px; */
+ }
